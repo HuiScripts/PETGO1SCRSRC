@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/HuiScripts/PETGO1SCRSRC/refs/heads/main/TomiSRC%20-%20PetGo%20-%20GTH.txt'))()
